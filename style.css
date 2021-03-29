@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2, h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+kbd kbd {
+    background: #f4f0d3;
+    border: 1px solid #dfcb41;
+    padding: 0.1em 0.3em;
+    box-shadow: 2px 2px 1px #ccc;
+}
+
+table {
+    border: medium solid #000000;
+    width: 50%;
+    margin: 50px auto;
+}
+
+td, th {
+    border: thin solid #6495ed;
+    padding: 10px;
+    text-align: center;
+}
+
+td:first-child {
+    max-width: 200px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 10px;
+}
+
+span {
+    font-weight: bold;
+}
